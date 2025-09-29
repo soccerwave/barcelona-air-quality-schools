@@ -1,0 +1,9 @@
+# Virtual environment
+.venv/
+
+# IDE settings
+.idea/
+
+# سیستم‌عامل
+.DS_Store
+Thumbs.db

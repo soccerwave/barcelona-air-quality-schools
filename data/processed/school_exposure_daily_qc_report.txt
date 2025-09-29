@@ -1,0 +1,16 @@
+===== Stage 8 QC Report =====
+Input rows           : 158851
+Flagged (to drop)    : 0
+Kept (clean)         : 158851
+
+PASS: Clean file satisfies constraints (coverage>=75, non-negative, station_count=1).
+
+---- value_agg stats (cleaned) ----
+count    158851.000000
+mean         19.590683
+std          21.638452
+min           0.100000
+50%          13.916667
+90%          60.291667
+95%          70.714286
+max         106.625000
