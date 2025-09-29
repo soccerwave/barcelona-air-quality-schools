@@ -4,6 +4,7 @@
 # IDE settings
 .idea/
 
-# سیستم‌عامل
 .DS_Store
 Thumbs.db
+
+.gitignore
